@@ -4,3 +4,4 @@ mahasiswa filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.mahasiswa-crud filter=lfs diff=lfs merge=lfs -text
+mahasiswa-crud filter=lfs diff=lfs merge=lfs -text
